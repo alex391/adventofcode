@@ -23,3 +23,4 @@ with open("day4.txt") as file:
                fields.add(i)
         print (fields)
     print(valid)
+    
