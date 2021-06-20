@@ -18,7 +18,7 @@ with open("day4.txt") as file:
             fields.sort()
             #should look like this ['#623a2f', '087499704', '1980', '2012', '2030', '74in', 'byr', 'ecl', 'eyr', 'grn', 'hcl', 'hgt', 'iyr', 'pid']
             print(fields)
-            if fields[3]
+            if fields[3]:
                 pass
             fields = []
         else:
